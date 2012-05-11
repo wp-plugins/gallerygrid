@@ -4,7 +4,7 @@ Donate link: http://tumblingdrills.com/donations
 Tags:
 Requires at least: 2.0.2
 Tested up to: 2.1
-Stable tag:
+Stable tag: trunk
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
